@@ -1,7 +1,7 @@
 TLS Support
 ===========
 
-Getting Started
+Getting Starte
 ---------------
 
 ### Building
